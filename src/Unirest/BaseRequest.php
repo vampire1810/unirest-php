@@ -2,7 +2,7 @@
 
 namespace Unirest;
 
-class Request
+class BaseRequest
 {
     private static $cookie = null;
     private static $cookieFile = null;
