@@ -2,7 +2,7 @@
 
 namespace Unirest;
 
-class Response
+class BaseResponse
 {
     public $code;
     public $raw_body;
